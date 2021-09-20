@@ -4,6 +4,10 @@
 # Thus, be aware to not do such things and act responsible.
 ############
 
+# TODOs
+# Replace this script with a python-programm that takes an address as argument
+# and handles the processes respectively
+
 # Module import
 import requests
 import csv
